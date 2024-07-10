@@ -2,8 +2,6 @@
 
 [<img src="bookcover42.jpg" style="width:200px;"  align="left">](https://djangoforbeginners.com/)
 
-[![GitHub stars](https://img.shields.io/github/stars/wsvincent/djangoforbeginners)](https://github.com/wsvincent/djangoforbeginners/stargazers)
-
 This is the code repository for [Django for Beginners](https://djangoforbeginners.com/), written by [William Vincent](https://wsvincent.com). It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## Source Code for Previous Editions
